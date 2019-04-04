@@ -1,0 +1,111 @@
+@charset "UTF-8";
+
+nav{
+	background-color: #098c2a;
+	text-align: center;
+}
+
+div#principal{
+      
+}
+
+div#logo img{
+  width: 250px;
+  position: absolute;
+}
+
+div#logo{
+	margin-top: -1300px;
+}
+
+div#logo img:hover{
+	width: 280px;
+	transition: .5s;
+
+}
+
+img#ars{
+	margin-left: 1000px;
+	margin-top: 280px;
+}
+
+img#che{
+	margin-left: 540px;
+	margin-top: 960px;
+}
+
+img#liv{
+	margin-top:  650px;
+	margin-left: 120px;
+}
+
+img#manc{
+	margin-top: 280px;
+	margin-left: 120px;
+}
+
+img#manu{
+	margin-left: 540px;
+}
+
+img#tot{
+	margin-left: 1000px;
+	margin-top:  660px;
+}
+
+li {
+	list-style: none;
+	font-family: sans-serif;
+	font-size: 20px;
+	display: inline-block;
+	font-style: italic;
+	color: white;
+	padding: 20px;
+}
+
+li#agrad{
+	float: right;
+
+}
+
+li#home{
+	float: left;
+}
+
+li#titulo{
+	color: black;
+}
+
+
+p {
+	font-family: sans-serif;
+	font-weight: bolder;
+	text-align: center;
+}
+
+img.campo{
+	transform: rotate(90deg);
+	width: 1981px;
+	margin-left: -324px;
+	margin-top: 320px;
+	position: relative;
+	z-index: -1;
+}
+
+a {
+	text-decoration: none;
+}
+
+iframe{
+	position: absolute;
+	margin-left: 400px;
+	margin-top: 250px;
+	width: 680px;
+	height: 500px;
+	border: none;
+	}
+img#imgfim{
+	margin-left: 150px;
+	box-shadow: 20px 20px 10px #999;
+}
+
